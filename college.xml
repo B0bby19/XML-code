@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="college.xslt"?>
+<college xmlns="http://www.test.com"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.test.com college.xsd">
+	<teacher>
+		<name>Naresh</name>
+		<subject>web tech</subject>
+	</teacher>
+	<teacher>
+		<name>Ajaya</name>
+		<subject>DSA</subject>
+	</teacher>
+	
+	<student>
+		<rollno>1</rollno>
+		<name>Basant</name>
+		<subject>web tech</subject>
+		<marks>75</marks>
+	</student>
+	<student>
+		<rollno>2</rollno>
+		<name>Aditya</name>
+		<subject>web tech</subject>
+		<marks>35</marks>
+	</student>
+	<student>
+		<rollno>3</rollno>
+		<name>Saroj</name>
+		<subject>web tech</subject>
+		<marks>99</marks>
+	</student>
+	<student>
+		<rollno>4</rollno>
+		<name>Bishnu</name>
+		<subject>web tech</subject>
+		<marks>5</marks>
+	</student>
+	<student>
+		<rollno>5</rollno>
+		<name>Kamal</name>
+		<subject>web tech</subject>
+		<marks>70</marks>
+	</student>
+</college>

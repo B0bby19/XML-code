@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="employee.xslt"?>
+<college xmlns="http://www.test.com"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.test.com employee.xsd">
+	<employee>
+		<firstname language="english">Ram</firstname>
+		<lastname>tharu</lastname>
+		<gender>Male</gender>
+		<address>ktm</address>
+		<email>ram@javatpoint.com</email>
+		<age>39</age>
+		<district>Kathmandu</district>
+		<password>sdfsdsddsf</password>
+	</employee>
+</college>

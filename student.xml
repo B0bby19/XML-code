@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="student.xslt"?>
+<!-- xmlns is the default namespace -->
+<!-- use xsi to represent the anothe namespace -->
+<college xmlns="http://www.something.com.np" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.something.com.np student.xsd">
+	<student>
+		<rollNo joinDate="2022-02-22">
+			1
+		</rollNo>
+		<firstName>
+		 Basant
+		</firstName> 
+		<lastName>
+			Joshi
+		</lastName>
+		<age>
+			20
+		</age>
+		<district>
+			Ktm
+		</district>
+		<gender>
+			Male
+		</gender>
+		<address>
+			Kalopool
+		</address>
+		<password>
+			12345678
+		</password>
+	</student>
+</college>
